@@ -1,7 +1,3 @@
-#Dump Signs by freundTech
-#Feel free to use this filter and/or it's code for whatever you want, as long as you credit me.
-#http://freundTech.ga
-
 #Please not that this is a modified version of TexelElf's Dump Command Blocks Filter:
 #http://elemanser.com/filters.html
 

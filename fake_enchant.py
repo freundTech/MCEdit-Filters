@@ -1,6 +1,4 @@
-# Enchant Filter by SethBling
-# Feel free to modify and reuse, but credit to SethBling would be nice.
-# http://youtube.com/SethBling
+# This is a modified version of the Enchant Filter by SethBling
 
 from pymclevel import MCSchematic
 from pymclevel import TileEntity
